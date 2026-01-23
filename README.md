@@ -1,16 +1,45 @@
-## Hi there 👋
+# 👋 Hi, I'm Rümeysa
 
-<!--
-**rumeysaacevik/rumeysaacevik** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Software Engineering Student  
+🤖 Artificial Intelligence & Software Development
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🚀 About Me
+I am a Software Engineering student with a strong interest in artificial intelligence and software development.  
+I am currently working on my graduation project focused on **Convolutional Neural Networks (CNN)**.
+
+I have experience in **Python-based projects**, **natural language processing**, **database-driven applications**, and **web development** through academic studies, internships, and competitions.  
+I am eager to learn, detail-oriented, and motivated to improve myself by building practical and meaningful software solutions.
+
+
+---
+
+## 🛠 Technologies & Tools
+
+- Python (AI, NLP, Data Processing)
+- Java (Backend & Database-Oriented Applications)
+- C • C++ (Core Programming, Algorithms)
+- C# (Application Development)
+- SQL 
+- JavaScript 
+- HTML • CSS • Bootstrap
+
+
+### 🤖 Artificial Intelligence & Data Science
+- Convolutional Neural Networks (CNN) 
+- Natural Language Processing (NLP)
+- Python for AI & Data Processing
+- Data Preprocessing & Feature Engineering
+- Basic Machine Learning Concepts
+- Model Training & Evaluation
+- Streamlit (AI-based Applications)
+
+
+---
+
+## 📫 Contact
+- 📧 Mail: rumeysa.cevik@stu.fsm.edu.tr  
+- 💼 LinkedIn: https://www.linkedin.com/in/rümeysa-çevik  
+
