@@ -6,11 +6,13 @@
 
 <p align="center">
   <a href="mailto:rumeysa.cevik@stu.fsm.edu.tr">
-    <img src="https://img.icons8.com/color/24/gmail-new.png"/>
+    <img src="https://img.icons8.com/color/24/gmail-new.png" alt="Email"/>
+    rumeysa.cevik@stu.fsm.edu.tr
   </a>
-  &nbsp;&nbsp;
+  &nbsp;&nbsp;&nbsp;
   <a href="https://www.linkedin.com/in/rümeysa-çevik">
-    <img src="https://img.icons8.com/color/24/linkedin.png"/>
+    <img src="https://img.icons8.com/color/24/linkedin.png" alt="LinkedIn"/>
+    LinkedIn
   </a>
 </p>
 
