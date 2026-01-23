@@ -1,8 +1,21 @@
-# 👋 Hi, I'm Rümeysa Çevik
+<h1 align="center">👋 Hi, I'm Rümeysa Çevik</h1>
 
-🎓 Software Engineering Student  
+<p align="center">
+  <b>Software Engineering Student</b>
+</p>
 
-📧 rumeysa.cevik@stu.fsm.edu.tr | 💼 https://www.linkedin.com/in/rümeysa-çevik  
+<p align="center">
+  <a href="mailto:rumeysa.cevik@stu.fsm.edu.tr">
+    <img src="https://img.icons8.com/color/24/gmail-new.png"/>
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://www.linkedin.com/in/rümeysa-çevik">
+    <img src="https://img.icons8.com/color/24/linkedin.png"/>
+  </a>
+</p>
+
+<hr/>
+
 
 ---
 
