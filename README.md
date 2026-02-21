@@ -20,7 +20,7 @@
 
 
 
-## 🚀 About Me
+##  About Me
 
 I am a Software Engineering student with a strong interest in artificial intelligence and software development.  
 I am currently working on my graduation project focused on **Convolutional Neural Networks (CNN)**.
@@ -30,9 +30,9 @@ I am eager to learn, detail-oriented, and motivated to improve myself by buildin
 
 ---
 
-## 🛠 Technologies & Tools
+##  Technologies & Tools
 
-### 💻 Programming
+###  Programming
 - Python (AI, NLP, Data Processing)
 - Java (Backend & Database-Oriented Applications)
 - C • C++ (Core Programming, Algorithms)
@@ -41,7 +41,7 @@ I am eager to learn, detail-oriented, and motivated to improve myself by buildin
 - JavaScript
 - HTML • CSS • Bootstrap
 
-### 🤖 Artificial Intelligence & Data Science
+###  Artificial Intelligence & Data Science
 - Convolutional Neural Networks (CNN)
 - Natural Language Processing (NLP)
 - Python for AI & Data Processing
